@@ -1,1 +1,2 @@
 Criação de um novo ficheiro na interface no github!
+ficheiro alterado localmente repositorio clonado!
